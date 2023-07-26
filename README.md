@@ -2,6 +2,9 @@
 
 👨‍💻 Software Developer at [CIGAM Software Corporativo S.A.](https://www.cigam.com.br/)
 
+🧑‍🎓 Learning ![rust](https://www.rust-lang.org/)
+
+
 ### 💻 Stack
 
 - #### Programming Language
