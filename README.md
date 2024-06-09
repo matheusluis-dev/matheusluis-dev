@@ -1,8 +1,8 @@
 ## Hello, world 👋
 
-👨‍💻 Software Developer at [CIGAM Software Corporativo S.A.](https://www.cigam.com.br/)
+👨‍💻 Software Developer at [Conecta Softwares](https://www.conecta.com.br/))
 
-🧑‍🎓 Learning [ASP.NET Core](https://learn.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-7.0) and [React](https://react.dev/)
+🧑‍🎓 Learning [ASP.NET Core](https://learn.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-8.0) and [Vue.js](https://vuejs.org/))
 
 
 ### 💻 Stack
