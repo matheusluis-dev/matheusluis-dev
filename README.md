@@ -1,8 +1,8 @@
 ## Hello, world 👋
 
-👨‍💻 Software Developer at [Conecta Softwares](https://www.conecta.com.br/))
+👨‍💻 Software Developer at [Conecta Softwares](https://www.conecta.com.br/)
 
-🧑‍🎓 Learning [ASP.NET Core](https://learn.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-8.0) and [Vue.js](https://vuejs.org/))
+🧑‍🎓 Learning [ASP.NET Core](https://learn.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-8.0) and [Vue.js](https://vuejs.org/)
 
 
 ### 💻 Stack
